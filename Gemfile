@@ -3,7 +3,7 @@ source "https://rubygems.org/"
 
 gem 'sinatra', '~> 3.0', '>= 3.0.5'
 
-ruby '2.7.4'
+# ruby '2.7.4'
 
 gem 'pry'
 
